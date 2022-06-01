@@ -1,0 +1,6 @@
+.header__square-pic_position_absolute {
+  position: absolute;
+  top: 64px;
+  right: 0;
+  z-index: 1;
+}
