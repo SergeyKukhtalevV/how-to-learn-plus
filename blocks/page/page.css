@@ -9,6 +9,9 @@
   font-family: 'Inter', 'Arial', sans-serif;
   display: flex;
   flex-direction: column;
-  gap: 100px;
+}
 
+* {
+  border: 1px solid red;
+  box-sizing: border-box;
 }
