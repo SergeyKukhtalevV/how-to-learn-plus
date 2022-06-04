@@ -67,10 +67,8 @@
 @import url(../blocks/section-title/_theme/seciotn-title_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
-@import url(../blocks/table/_z-index/table_z-index_top.css);
 @import url(../blocks/table/__cell_theme/table__cell_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
-@import url(../blocks/kaufman/__triangle/__triangle_z-index_under/kaufman__triangle_z-index_under.css);
 /*resources*/
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
