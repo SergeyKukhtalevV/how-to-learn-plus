@@ -74,13 +74,8 @@
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__link/resources__link.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
-@import url(../blocks/resources/__logo/_type/resources__logo_type_arzamas.css);
-@import url(../blocks/resources/__logo/_type/resources__logo_type_n1.css);
-@import url(../blocks/resources/__logo/_type/resources__logo_type_strelka.css);
-@import url(../blocks/resources/__logo/_type/resources__logo_type_polka.css);
 /*footer*/
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/_theme/footer_theme_dark.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__column/footer__column.css);
